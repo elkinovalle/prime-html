@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+/*Inicio */
 .inicio
 {
 background-color: chartreuse;
@@ -28,9 +29,11 @@ width: 970px;
     margin: 0px 40px 30px 30px;
     height: 300px;
 }
+/* Pagina 1*/
 .pagina1{
    background-color: rebeccapurple;
-   margin: 60px 0px 0px 80px; 
+   margin: 0px 0px 0px 80px;
+   padding: 30px 0 0 0;
    width: 895px;
    height: 950px;
 }
@@ -42,14 +45,15 @@ width: 970px;
 }
 .pagina1 h1{
     background-color:blue;
-    margin: 30px 15px 20px 40px;
+    margin: 0px 40px 15px 20px;
+    padding: 30px 0px 0px 0px;
     height: 260px;
     
 }
 
 .pagina1 h1 p{
     background-color: yellow;
-    margin: 30px 15px 20px 20px;
+    margin: 0px 15px 20px 20px;
     height: 100px;
 }
 .pagina1 h1 div{
@@ -60,17 +64,18 @@ width: 970px;
 .pagina1 h2{
     background-color: white;
     margin: 0px 30px 20px 30px;
+    padding: 30px 0px 0px 0px;
     height: 350px;
 
 }
 .pagina1 h2 p{
     background-color:aqua;
-    margin: 30px 25px 20px 10px;
+    margin: 0px 25px 0px 10px;
     height: 300px;
 }
 .pagina1 h3{
     background-color: green;
-    margin: 0px 15px 25px 25px;
+    margin: 0px 15px 0px 25px;
     height: 250px;
 }
 .pagina2{
@@ -130,6 +135,7 @@ width: 970px;
     height: 80px;
     width: 780px;
 }
+/* Pagina 3*/
 .pagina3{
     background-color: green;
     margin: 40px 0 0 40px;
